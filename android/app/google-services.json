@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435318792160",
+    "project_id": "boreal-byte-384216",
+    "storage_bucket": "boreal-byte-384216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435318792160:android:f16af209cc7a59b8065585",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIOqyJOFqWJy1nyUp00qMOh89bgZmV5sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
